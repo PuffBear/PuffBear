@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a second-year Mathematics and Computer Science major from Ashoka University, passionate about solving problems from different realms using coding and mathematics. I also like to dabble myself in investments every now and then.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a second-year Mathematics and Computer Science major from Ashoka University, passionate about solving problems from different realms using coding and mathematics. I also like to dabble myself in investments every now and then.<br></p>
 
 ###
 
